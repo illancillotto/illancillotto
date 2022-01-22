@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @illancillotto #ganixedda
-- 👀 I’m interested in ... #narausu
+- 👋 Hi, I’m @illancillotto #anotherGitAccount
+- 👀 I’m interested in ... #EverythingNarausu
 - 🌱 I’m currently learning ... #blockchainTechnology
-- 💞️ I’m looking to collaborate on ... #letsWeSee
-- 📫 How to reach me ... #alessandrop.it
+- 💞️ I’m looking to collaborate on ... #letsWeSeeScubidaxiu
+- 📫 How to reach me ... #alessandrop.it 
 
 <!---
 illancillotto/illancillotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
