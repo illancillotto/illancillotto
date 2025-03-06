@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @illancillotto #anotherGitAccount
+- 👋 Hi, I’m @illancillotto #anotherNewGitAccount
 - 👀 I’m interested in ... #EverythingNarausu
 - 🌱 I’m currently learning ... #blockchainTechnology
-- 💞️ I’m looking to collaborate on ... #letsWeSeeScubidaxiu
+- 💞️ I’m looking to collaborate on ... #letsWeSee
 - 📫 How to reach me ... #x
 
 <!---
