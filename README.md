@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @illancillotto #anotherNewGitAccount
+- 👋 Hi, this is #anotherNewGitAccount
 - 👀 I’m interested in ... #EverythingNarausu
 - 🌱 I’m currently learning ... #blockchainTechnology
 - 💞️ I’m looking to collaborate on ... #letsWeSee
